@@ -1,2 +1,2 @@
-# hello world
-print('Welcome M M Nair')
+# hello M M Nair
+print('Welcome to the world of Git')
